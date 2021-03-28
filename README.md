@@ -1,5 +1,5 @@
 <h1 align="center">
-    Example of [aiogram](https://github.com/aiogram/aiogram) architecture
+    Example of aiogram architecture
 </h1>
 
 ##Информация
