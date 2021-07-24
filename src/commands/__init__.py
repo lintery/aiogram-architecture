@@ -1,4 +1,5 @@
 from .state import dp
+from .first_register_echo import dp
 from .echo import dp
 
 
